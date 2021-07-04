@@ -8,3 +8,7 @@ and got it working with the latest electron and node js
 
 To use it you need to first clone it and then npm init it to download the various things
 
+the command line to initialise things is npx create-electron-app screen-recorder
+
+The repository already has most of what you need but im not sure if you need to create the app first.
+
